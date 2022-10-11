@@ -8,7 +8,7 @@ Desafio da DIO para criação do primeiro repositório no Git/GitHub
 
 [Principais comandos do GitHub](https://comandosgit.github.io/)
 
-## Sobre Cristina Meireles
+## Oi, eu sou a Cristina Meireles
 Sou formada em Design de Moda mas neste momento estou em transição de carreira e é por isso que estudo Tecnologia.
 Sempre fui fascinada pela moda e pelo processo criativo por trás dela. Mas com o passar dos anos, percebi que queria fazer algo mais prático e que pudesse me ajudar a ganhar a vida. Então, depois de me formar em Design de Moda, decidi me matricular em um programa de Bootcamp de Programação/Tecnologia na Digital Innovation One.
 Eu sabia que isso ia ser um ajuste para mim por causa da mudança drástica no currículo, mas valeu a pena porque agora me sinto preparado para o que vier.
