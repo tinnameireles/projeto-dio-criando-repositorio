@@ -6,3 +6,5 @@ Desafio da DIO para criação do primeiro repositório no Git/GitHub
 
 [Estudo do Projeto de  criação repositório](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
 
+[Principais comandos do GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+
