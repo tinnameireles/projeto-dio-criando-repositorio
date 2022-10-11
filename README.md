@@ -16,4 +16,4 @@ A tecnologia é parte integrante de nossas vidas. Mudou a forma como vivemos, tr
 Qual é o futuro da tecnologia? O futuro tem tudo a ver com inteligência artificial, aprendizado de máquina e análise de dados.
 Quero estudar e trabalhar com esse tipo de tecnologia porque me fascina. Eu quero fazer parte dessa jornada emocionante e aprender cada vez mais.
 
-[Meu Linkedin](https://www.linkedin.com/in/cristina-meireles-98076821/)
+[Meu Linkedin](https://www.linkedin.com/in/cristina-meireles-98076821/) 🔍
